@@ -1,0 +1,2 @@
+redshift -O 5500 // nice warm
+redshift -x // reset
